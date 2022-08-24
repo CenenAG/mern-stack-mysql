@@ -1,3 +1,4 @@
+--Para el server
 npm init -y
 
 npm i express mysql2 morgan 
@@ -5,4 +6,21 @@ npm i express mysql2 morgan
 npm i nodemon -D
 
 "dev": "nodemon node ./server/index.js"
+
+
+--para el frontend
+npm create vite
+y
+nombre proyecto
+react
+npm install    (--para que instale los modulos)
+limpiar los css y app.jsx se deja componente basico
+
+npm install react-router-dom@6 (en directorio client)
+
+npm i axios
+
+npm i cors (en server api backend)
+
+context 
 
